@@ -4,11 +4,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/b739c6d302c230a146f7.worker.js"
   },
   {
-    "revision": "3088bdfe49bf258079d42acc6cd039bb",
+    "revision": "ee004e94de0381403c1e3b64ff67ee01",
     "url": "/covid19india-react/index.html"
   },
   {
-    "revision": "efe6bde8a626481475a5",
+    "revision": "e3c6aa69383752298061",
     "url": "/covid19india-react/static/css/14.f4c836b0.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/static/js/10.ea0bf2d3.chunk.js"
   },
   {
-    "revision": "1838b2633b75f3f95f5c",
-    "url": "/covid19india-react/static/js/11.0e9f835e.chunk.js"
+    "revision": "be641170707d3d9308a5",
+    "url": "/covid19india-react/static/js/11.1c1bf5c9.chunk.js"
   },
   {
     "revision": "6f7e162414476b1dddc3",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/static/js/13.2288208a.chunk.js"
   },
   {
-    "revision": "efe6bde8a626481475a5",
-    "url": "/covid19india-react/static/js/14.fc507cab.chunk.js"
+    "revision": "e3c6aa69383752298061",
+    "url": "/covid19india-react/static/js/14.0d9d81c9.chunk.js"
   },
   {
     "revision": "764e0a7f00df4609fb05",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/static/js/18.fefb0870.chunk.js"
   },
   {
-    "revision": "d9a7571ecf2c2cd4130c",
-    "url": "/covid19india-react/static/js/19.2f269e60.chunk.js"
+    "revision": "c7f30cde123a1ed47f49",
+    "url": "/covid19india-react/static/js/19.b2e55746.chunk.js"
   },
   {
     "revision": "81114c26e0d5fb09b303",
@@ -100,24 +100,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/static/js/23.a9e5652c.chunk.js"
   },
   {
-    "revision": "dd3013a8f930d7687952",
-    "url": "/covid19india-react/static/js/24.64c60d3a.chunk.js"
+    "revision": "dcafbcfa3f26ffefb471",
+    "url": "/covid19india-react/static/js/24.fe125663.chunk.js"
   },
   {
-    "revision": "311e1c1d2c4e4bad2f01",
-    "url": "/covid19india-react/static/js/25.4efc5460.chunk.js"
+    "revision": "891a8dae1168ae3010f5",
+    "url": "/covid19india-react/static/js/25.0bf655e8.chunk.js"
   },
   {
-    "revision": "3022b4771efcadf2be7a",
-    "url": "/covid19india-react/static/js/26.36dff654.chunk.js"
+    "revision": "856f04ce6cd5096614cc",
+    "url": "/covid19india-react/static/js/26.a71a2741.chunk.js"
   },
   {
-    "revision": "cb2b01a4b58c7be914d0",
-    "url": "/covid19india-react/static/js/27.3d0c8932.chunk.js"
+    "revision": "3bfcaf1de3023ddbc01f",
+    "url": "/covid19india-react/static/js/27.445d989e.chunk.js"
   },
   {
-    "revision": "35c2ae7553940b1cfe9d",
-    "url": "/covid19india-react/static/js/28.2bee0097.chunk.js"
+    "revision": "e3dc705427e3a1c7260a",
+    "url": "/covid19india-react/static/js/28.38364ccd.chunk.js"
   },
   {
     "revision": "cee77b09858db9a1e537",
@@ -168,12 +168,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/static/js/4.6e923618.chunk.js"
   },
   {
-    "revision": "8c33d5e61ffeeda6a5c2",
-    "url": "/covid19india-react/static/js/7.4be237d7.chunk.js"
+    "revision": "06d88c7d881be05e15f4",
+    "url": "/covid19india-react/static/js/7.d3fcfafb.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/covid19india-react/static/js/7.4be237d7.chunk.js.LICENSE.txt"
+    "url": "/covid19india-react/static/js/7.d3fcfafb.chunk.js.LICENSE.txt"
   },
   {
     "revision": "1bd1a0d22148fa4f72a0",
@@ -188,8 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/covid19india-react/static/js/main.ead8e205.chunk.js"
   },
   {
-    "revision": "8c0331b24639d8f8c330",
-    "url": "/covid19india-react/static/js/runtime-main.300d192e.js"
+    "revision": "8685d829023d4a606456",
+    "url": "/covid19india-react/static/js/runtime-main.b413d135.js"
   },
   {
     "revision": "013f0b90a4cae7b8bbf13e3fd9e7dc4a",
