@@ -12,8 +12,8 @@
     "static/js/4.6e923618.chunk.js.map": "/covid19india-react/static/js/4.6e923618.chunk.js.map",
     "main.js": "/covid19india-react/static/js/main.5ab79754.chunk.js",
     "main.js.map": "/covid19india-react/static/js/main.5ab79754.chunk.js.map",
-    "runtime-main.js": "/covid19india-react/static/js/runtime-main.ee742e71.js",
-    "runtime-main.js.map": "/covid19india-react/static/js/runtime-main.ee742e71.js.map",
+    "runtime-main.js": "/covid19india-react/static/js/runtime-main.a8d9bbac.js",
+    "runtime-main.js.map": "/covid19india-react/static/js/runtime-main.a8d9bbac.js.map",
     "static/js/7.4be237d7.chunk.js": "/covid19india-react/static/js/7.4be237d7.chunk.js",
     "static/js/7.4be237d7.chunk.js.map": "/covid19india-react/static/js/7.4be237d7.chunk.js.map",
     "static/js/8.74e42707.chunk.js": "/covid19india-react/static/js/8.74e42707.chunk.js",
@@ -29,8 +29,8 @@
     "static/js/13.2288208a.chunk.js": "/covid19india-react/static/js/13.2288208a.chunk.js",
     "static/js/13.2288208a.chunk.js.map": "/covid19india-react/static/js/13.2288208a.chunk.js.map",
     "static/css/14.96f289a6.chunk.css": "/covid19india-react/static/css/14.96f289a6.chunk.css",
-    "static/js/14.896afc8a.chunk.js": "/covid19india-react/static/js/14.896afc8a.chunk.js",
-    "static/js/14.896afc8a.chunk.js.map": "/covid19india-react/static/js/14.896afc8a.chunk.js.map",
+    "static/js/14.fc507cab.chunk.js": "/covid19india-react/static/js/14.fc507cab.chunk.js",
+    "static/js/14.fc507cab.chunk.js.map": "/covid19india-react/static/js/14.fc507cab.chunk.js.map",
     "static/js/15.39d4d25c.chunk.js": "/covid19india-react/static/js/15.39d4d25c.chunk.js",
     "static/js/15.39d4d25c.chunk.js.map": "/covid19india-react/static/js/15.39d4d25c.chunk.js.map",
     "static/js/16.fe951844.chunk.js": "/covid19india-react/static/js/16.fe951844.chunk.js",
@@ -82,7 +82,7 @@
     "b739c6d302c230a146f7.worker.js": "/covid19india-react/b739c6d302c230a146f7.worker.js",
     "b739c6d302c230a146f7.worker.js.map": "/covid19india-react/b739c6d302c230a146f7.worker.js.map",
     "index.html": "/covid19india-react/index.html",
-    "precache-manifest.543054ffa65b58d6b3cf1560c3fc3d35.js": "/covid19india-react/precache-manifest.543054ffa65b58d6b3cf1560c3fc3d35.js",
+    "precache-manifest.82a31cee70b6c97a22a89b30b8a1f171.js": "/covid19india-react/precache-manifest.82a31cee70b6c97a22a89b30b8a1f171.js",
     "service-worker.js": "/covid19india-react/service-worker.js",
     "static/css/14.96f289a6.chunk.css.map": "/covid19india-react/static/css/14.96f289a6.chunk.css.map",
     "static/js/0.48b63423.chunk.js.LICENSE.txt": "/covid19india-react/static/js/0.48b63423.chunk.js.LICENSE.txt",
@@ -94,7 +94,7 @@
     "static/media/getFetch.cjs": "/covid19india-react/static/media/getFetch.013f0b90.cjs"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee742e71.js",
+    "static/js/runtime-main.a8d9bbac.js",
     "static/js/7.4be237d7.chunk.js",
     "static/js/main.5ab79754.chunk.js"
   ]
